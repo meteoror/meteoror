@@ -1,3 +1,4 @@
-[![gitstats](https://github-readme-stats.vercel.app/api?username=meteoror)](https://github.com/anuraghazra/github-readme-stats)
-# hello
-i code
+# Hello!
+My name is 91nevolt, fuelcell, or really any other variation of those you'd like to call me. I draw and develop video games. 
+
+You can follow me on [twitter, not X,](x.com/91nevolt) if you'd like. 
