@@ -1,4 +1,4 @@
-# Hello!
-My name is 91nevolt, fuelcell, or really any other variation of those you'd like to call me. I draw and develop video games. 
+# hi!
+my name is matrix or 91nevolt. i do freelance front-end design with next.js and typescript, along with developing games in c++ and python 
 
-You can follow me on [twitter, not X,](https://x.com/91nevolt) if you'd like. 
+you can follow me on [twitter](https://x.com/91nevolt) if you'd like
